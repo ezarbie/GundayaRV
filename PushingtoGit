@@ -29,9 +29,9 @@
 
     2. git init   
 
-    3. git add README.md
+    3. git add pushingtoGit
 
-    4. git commit -m <dfn>"first commit"</dfn>
+    4. git commit -m <dfn>"cute si charly sir"</dfn>
 
     5. branch -M main 
 
