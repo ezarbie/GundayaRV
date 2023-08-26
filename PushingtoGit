@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title>Activity #2</title>
+        <style>
+            h1 {text-align: center;}
+            hr {width: 75%;}
+            p {text-align: center;}
+            div {text-align: center;}
+        </style>
+    </head>
+    <body>
+        <h1>These are the steps to push a gitbub repository</h1>
+        <hr>
+        <p>
+            first lets discuss what is git<br>
+            Git is <dfn title="This is a free"> and <dfn title="This is a open source "</dfn>
+        </p>
+        <div>
+           
+        </div>
+    </body>   
+    </head>
+</html>
