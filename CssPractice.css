@@ -1,0 +1,27 @@
+.ArbieXD h1 {
+    color: black;
+    text-align: center;
+}
+.ArbieXD h2 {
+    color: black;
+    text-align: center;
+}
+.ArbieXD p {
+    border:dashed red;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.gray-background  {
+     background: gray
+  
+}
+.strike-through {
+    text-decoration: line-through;
+}
+.bold {
+    font-weight: bold;
+}
+   

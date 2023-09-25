@@ -1,0 +1,40 @@
+body {
+    background-color: cyan;
+
+}
+.News h1 {
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    
+}
+.News hr {
+    border: 2px solid gray;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.News h2 {
+    text-align: center;
+}
+    
+.silver {
+    color: hsl(0, 0%, 75%);
+}
+.fuchsia {
+    color: rgb(255, 0, 255);
+}
+.bright-orange {
+    color: 	rgb(255, 172, 28);
+}
+.subs {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.Office {
+    font-size: large;
+    font-weight: bold;
+}
+.R {
+    font-weight: bold;
+}
