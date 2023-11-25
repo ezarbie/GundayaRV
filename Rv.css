@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #fcfcfc;
+  }
+  
+ 
+  .header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: rgb(207, 144, 144);
+  }
+  
+ 
+  .leftcolumn {
+    float: left;
+    width: 50%;
+
+  }
+  
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+  }
+  
+
+  .fakeimg {
+    background-color: #e46464;
+    width: 100%;
+    padding: 20px;
+  }
+  
+
+  .card {
+    background-color: rgb(219, 141, 141);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+
+
+  
+
+
+
+ 
