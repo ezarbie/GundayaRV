@@ -1,0 +1,71 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+body {
+    background-color: cyan;
+
+}
+.b1 {
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+.b2 {
+    background-color: white;
+    color: black;
+    font-style: arial;
+
+    margin: -105px 0px 0px 1320px;
+}
+.b3 {
+    margin: -100px 0px 0px 650px;
+    background-color: pink;
+    border:  dotted black;
+}
+.b4 {
+    font-variant: small-caps;
+    color: green;
+    background-color: wheat;
+    border: dashed 5px;
+}
+.b5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 24px;
+    font-style: oblique;
+
+}
+.B {
+    color: green;
+}
+.O{
+    color: yellow;
+}
+.X {
+    color: red;
+}
+.Five {
+    color: blue;
+}
+.b6{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    background-color: slateblue;
+    margin: -350px 0px 0px 650px;
+}
+.b7{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rebeccapurple;
+    margin: -170px 0px 0px 650px;
+
+}

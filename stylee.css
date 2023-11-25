@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(rgba(247, 172, 224, 0.829), rgba(97, 12, 131, 0.6));
+    justify-content: center;
+}
+#Container {
+    text-align: center;
+}
+
+label {
+    text-align: center;
+    display: block;
+    margin-bottom: 8px;
+    font-family: Sans-serif;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+#userInfoFormahalkopasiya {
+    background: linear-gradient(rgba(247, 172, 224, 0.829), rgba(97, 12, 131, 0.6));
+    box-shadow: 0 0 30px rgba(17, 15, 15, 0.925);
+    width: 300px;
+    padding: 10px;
+    border-radius: 30px;
+   
+}
+
+button {
+    background-color: #010f01;
+    color: rgba(247, 172, 224, 0.829);
+    padding: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid rgb(243, 243, 243);
+    margin: 0;
+    position: center;
+   
+  
+}
+
+button:hover {
+    background-color: rgb(240, 236, 239);
+}
